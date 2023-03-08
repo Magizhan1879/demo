@@ -1,0 +1,23 @@
+div{
+    margin-top: 150px;
+    margin-left: 300px;
+}
+
+li {
+    display: inline-block;
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+.inactive {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.active {
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+}
